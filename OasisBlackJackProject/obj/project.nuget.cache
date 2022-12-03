@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqdryoUrtC1PJqx2XG1mPNtYdjwv0oP9u3Itq0sGxCxopcK9bkzkoVbWc9rVf0N4Fl15gAFgID2Ad8cFmD8ybg==",
+  "success": true,
+  "projectFilePath": "D:\\New folder\\OasisBlackJackProject\\OasisBlackJackProject\\OasisBlackJackProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shoha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\shoha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\shoha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\shoha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\shoha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\shoha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
